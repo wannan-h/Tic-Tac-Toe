@@ -8,7 +8,7 @@ https://zhuanlan.zhihu.com/p/39581573
 
 Tips：
   写代码的时候犯了一个很蠢的错误：{
-    int a=0;\n
+    int a=0;  
     int b=0;
     int c=2;
       (a==b==c) 
